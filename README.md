@@ -1,5 +1,7 @@
 # BaseLinker to Shopify - synchronizacja multi-location
 
+> Automatyzacje i integracje dla sklepów internetowych: [fluxlab.pl/automatyzacja-dla-ecommerce](https://fluxlab.pl/automatyzacja-dla-ecommerce?utm_source=github&utm_campaign=fluxlab-baselinker-shopify-sync)
+
 Synchronizacja stanow magazynowych z WIELU magazynow BaseLinker na WIELE
 Shopify Locations, z osobnym stanem per lokalizacja oraz obsluga zamowienia
 realizowanego z wiecej niz jednego magazynu.
